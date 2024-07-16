@@ -1,0 +1,6 @@
+[submodule "api-main"]
+	path = api-main
+	url = https://github.com/jasmynej/weddio-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/jasmynej/weddio-client.git
